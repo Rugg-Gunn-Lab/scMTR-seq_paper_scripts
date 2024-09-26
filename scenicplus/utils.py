@@ -2,7 +2,6 @@ import anndata
 import scanpy as sc
 import scipy as s
 from scipy.sparse import csr_matrix, issparse
-# import pycisTopic
 # from pycisTopic.pseudobulk_peak_calling import *
 def load_adata(adata_file, metadata_file = None, normalise = False, cells = None, cell_column = "cell", features = None, filter_lowly_expressed_genes = False, set_colors = False, keep_counts=False):
 
