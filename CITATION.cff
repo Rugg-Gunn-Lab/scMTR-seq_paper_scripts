@@ -28,7 +28,6 @@ keywords:
   - nextflow
   - pipeline
   - scMTR-seq
-license: GPL-3.0
 version: v0.0.0-9000
 date-released: '2024-10-04'
 
