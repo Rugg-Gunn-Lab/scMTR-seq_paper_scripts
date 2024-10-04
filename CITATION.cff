@@ -10,16 +10,12 @@ authors:
   - orcid: 'https://orcid.org/0000-0003-2802-5392'
     given-names: Yang
     family-names: Wang
-    affiliation: 
-      name: 'Babraham Institute'
-      ror: 'https://ror.org/01d5qpn59'
+    affiliation: 'Babraham Institute'
     email: yang.wang@babraham.ac.uk
   - given-names: Gavin
     family-names: Li
     email: gavin.li@babraham.ac.uk
-    affiliation: 
-      name: 'Babraham Institute'
-      ror: 'https://ror.org/01d5qpn59'
+    affiliation: 'Babraham Institute'
 repository-code: 'https://github.com/Rugg-Gunn-Lab/nf_mtr_seq'
 keywords:
   - multiomics
