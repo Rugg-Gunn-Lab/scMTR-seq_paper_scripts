@@ -71,8 +71,8 @@ The other emphasis is on making the work 'verifiable', exposing the complete ste
 
 *On what terms can others use your code, and how can you communicate this?*
 
-- [ ] Project is suitably licensed
-	- [ ]  	🥉Bronze *(easy)*: There is a LICENSE file in the repository for a license which meets one of the [OSI](https://opensource.org/osd), [Debian](https://www.debian.org/intro/free), or [FSF/GNU](https://www.gnu.org/philosophy/free-sw.en.html) definitions of free/libre or open source software.
+- [x] Project is suitably licensed
+	- [x]  	🥉Bronze *(easy)*: There is a LICENSE file in the repository for a license which meets one of the [OSI](https://opensource.org/osd), [Debian](https://www.debian.org/intro/free), or [FSF/GNU](https://www.gnu.org/philosophy/free-sw.en.html) definitions of free/libre or open source software.
 	Or for any contents that are not software a [Creative Commons](https://creativecommons.org/) or similar license which meets the [free cultural works](https://freedomdefined.org/Licenses) definition.
 	- [ ]  	🥈Silver *(easy)*: If any prose/documentation or images are licenced differently from the code in the project this is indicated and those licences provided.
 	If licences have an attribution requirement there is easy to copy text/links for appropriate attribution.
