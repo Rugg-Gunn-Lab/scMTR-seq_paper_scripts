@@ -435,12 +435,12 @@ Consider what can you do to make your code a little more efficient:
 
 *How can you be excellent to each other, make good decisions well, and continue to do so?*
 
-- [ ] The project has a suitable governance model
-	- [ ]  	🥉Bronze *(easy)*: The governance model is clearly communicated
+- [x] The project has a suitable governance model
+	- [x]  	🥉Bronze *(easy)*: The governance model is clearly communicated
 	- [ ]  	🥈Silver *(easy)*: Bronze Plus - Project has continuity planning in place (2 or more from)
 		- [ ] Source archived and/or mirrored to other platforms
 		- [ ] Public archives of key project governance documentation and plans for continuity of operations in the events such as the loss of key project infrastructure
-		- [ ] Plans of action in the event project admin(s) are no longer available
+		- [x] Plans of action in the event project admin(s) are no longer available
 	- [ ]  	🥇Gold *(intermediate)*: Project has a governance model appropriate to its scale and goals
 		- [ ] Project has clear and transparent processes
 	- [ ]  	🏆Platinum *(Hard)*: Project has a track record of good governance and policy, any from:
