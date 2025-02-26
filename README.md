@@ -3,6 +3,12 @@
 
 The codes in figures folders are used for reproducing figures in the manuscript. 
 
+## This Repo
+
+This repository is managed under the Rugg-Gunn Lab's [github organisation](https://github.com/Rugg-Gunn-Lab)
+Please direct any questions about this code repository to the corresponding authors of the paper this repo accompanies: peter.rugg-gunn[at]babraham.ac.uk and/or yang.wang[at]babraham.ac.uk who are responsible for this repo.
+Also feel free to open issues against this repo.
+
 **Citation:**
 ```
 Combinatorial profiling of multiple histone modifications and transcriptome in single cells using scMTR-seq.
