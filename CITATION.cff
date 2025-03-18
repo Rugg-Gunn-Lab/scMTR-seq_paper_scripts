@@ -7,23 +7,15 @@ message: >-
   Analysis scripts 
 type: software
 authors:
-  - orcid: 'https://orcid.org/0000-0003-2802-5392'
-    given-names: Yang
+  - given-names: Yang
     family-names: Wang
-    affiliation: 'Babraham Institute'
-    email: yang.wang@babraham.ac.uk
   - given-names: Gavin
     family-names: Li
-    email: gavin.li@babraham.ac.uk
-    affiliation: 'Babraham Institute'
 repository-code: 'https://github.com/Rugg-Gunn-Lab/nf_mtr_seq'
 keywords:
   - multiomics
-  - single-cell
-  - single-cell multiomics
   - nextflow
   - pipeline
-  - scMTR-seq
-version: v0.0.0-9000
+version: 'v0.0.0-9000'
 date-released: '2024-10-04'
 
