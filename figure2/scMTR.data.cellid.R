@@ -1,12 +1,14 @@
-source("~/scripts/utility.R")
-#sample E8.5, HNES1
+##Note: This is the initial cell ID QC step, performed using read summary files after mapping. These files are used to generate knee plots for threshold determination, match DNA and RNA cell barcodes from the same cell, and summarize retained cell IDs.
+##While this step provides a reliable evaluation of sequencing quality, please note that duplicated read counts may not be accurate, as further deduplication has been applied to both RNA and DNA datasets.
+##Due to space limitations, we have only included rna.dna.kept.summary.tsv.gz. If you're interested in accessing additional files, feel free to contact us.
+
 library(data.table)
 library(purrr)
 library(ggplot2)
 library(viridis)
 library(stringr)
 library(ggpointdensity)
-
+source("~/scripts/utility.R")
 ########################################################################
 ################# prepare matrix and sample information ################
 ########################################################################
